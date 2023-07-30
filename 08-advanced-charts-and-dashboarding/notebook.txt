@@ -1,0 +1,5 @@
+CASE [Dimension]
+when 'Sales' then [Sales]
+when 'Profit' then [Profit]
+when 'Quantity' then [Quantity]
+end
